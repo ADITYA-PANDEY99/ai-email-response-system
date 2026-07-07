@@ -18,7 +18,7 @@ const CustomTooltip = ({
   payload,
 }: {
   active?: boolean;
-  payload?: { value: number }[];
+  payload?: any[];
 }) => {
   if (active && payload && payload.length) {
     return (
