@@ -49,4 +49,4 @@ In customer service email operations:
 
 - **GitHub Repository**: `https://github.com/ADITYA-PANDEY99/ai-email-response-system`
 - **Frontend Dashboard (Vercel)**: `https://frontend-iota-henna-20.vercel.app`
-- **Backend API (Render)**: `https://api-email-response.onrender.com`
+- **Backend API (Render)**: `https://ai-email-backend-x4g2.onrender.com`
