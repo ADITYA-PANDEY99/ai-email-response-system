@@ -8,6 +8,11 @@
 [![FAISS](https://img.shields.io/badge/FAISS-1.9-blue?style=flat)](https://github.com/facebookresearch/faiss)
 [![sentence-transformers](https://img.shields.io/badge/sentence--transformers-all--MiniLM--L6--v2-orange?style=flat)](https://www.sbert.net)
 
+## 🔗 Live Deployments
+
+- **Frontend Dashboard (Vercel)**: [https://frontend-iota-henna-20.vercel.app](https://frontend-iota-henna-20.vercel.app)
+- **Backend API (Render)**: [https://ai-email-backend-x4g2.onrender.com](https://ai-email-backend-x4g2.onrender.com)
+
 ---
 
 ## 📐 Architecture
