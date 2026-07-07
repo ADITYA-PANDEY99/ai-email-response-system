@@ -48,5 +48,5 @@ In customer service email operations:
 ## 🔗 Deployment Details (Placeholders)
 
 - **GitHub Repository**: `https://github.com/ADITYA-PANDEY99/ai-email-response-system`
-- **Frontend Dashboard (Vercel)**: `https://ai-email-dashboard.vercel.app`
+- **Frontend Dashboard (Vercel)**: `https://frontend-iota-henna-20.vercel.app`
 - **Backend API (Render)**: `https://api-email-response.onrender.com`
