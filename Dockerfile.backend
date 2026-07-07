@@ -17,12 +17,11 @@ COPY scripts/ ./scripts/
 
 RUN mkdir -p /app/data
 
-# Pre-generate dataset
-RUN python -m dataset.generator
+# Pre-generate dataset and seed DB at build time
+RUN python -m dataset.generator && python scripts/seed_db.py
 
 # Expose port
 EXPOSE 8000
 
-# Startup: seed DB then launch server
-CMD python scripts/seed_db.py && \
-    uvicorn backend.main:app --host 0.0.0.0 --port 8000 --workers 1
+# Startup: launch server directly
+CMD ["uvicorn", "backend.main:app", "--host", "0.0.0.0", "--port", "8000"]
