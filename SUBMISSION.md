@@ -47,6 +47,6 @@ In customer service email operations:
 
 ## 🔗 Deployment Details (Placeholders)
 
-- **GitHub Repository**: `https://github.com/candidate/ai-email-response-system`
+- **GitHub Repository**: `https://github.com/ADITYA-PANDEY99/ai-email-response-system`
 - **Frontend Dashboard (Vercel)**: `https://ai-email-dashboard.vercel.app`
 - **Backend API (Render)**: `https://api-email-response.onrender.com`

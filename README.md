@@ -341,7 +341,7 @@ This guarantees that confidence remains high only when multiple independent eval
 ### 1. Clone & Configure
 
 ```bash
-git clone <repo>
+git clone https://github.com/ADITYA-PANDEY99/ai-email-response-system.git
 cd ai-email-response-system
 
 # Copy environment config
