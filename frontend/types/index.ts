@@ -114,6 +114,7 @@ export interface EvaluationResponse {
   strengths: string[];
   weaknesses: string[];
   recommendations: string[];
+  executive_summary: string;
   created_at: string;
 }
 
